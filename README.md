@@ -8,8 +8,8 @@
 <br><br>
 <div>
   <a href="https://github.com/Yasmin-Perestrelo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Yasmin-Perestrelo&show_icons=true&theme=radical&count_private=true"/>
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmin-Perestrelo&layout=compact&theme=radical"/>
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=Yasmin-Perestrelo&show_icons=true&theme=radical&count_private=true"/>
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmin-Perestrelo&layout=compact&theme=radical"/>
 </div>
   
 ##
