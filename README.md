@@ -24,6 +24,7 @@
     <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   </div>
-
+<br>
+   ![Snake animation](https://github.com/Yasmin-Perestrelo/Yasmin-Perestrelo/blob/output/github-contribution-grid-snake.svg)
   
   
