@@ -9,7 +9,7 @@
 <div>
   <a href="https://github.com/Yasmin-Perestrelo">
   <img height="166em" src="https://github-readme-stats.vercel.app/api?username=Yasmin-Perestrelo&show_icons=true&theme=radical&count_private=true"/>
-  <img align="right" height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmin-Perestrelo&layout=compact&theme=radical"/>
+  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmin-Perestrelo&layout=compact&theme=radical"/>
 </div>
   
 ##
@@ -25,8 +25,5 @@
     <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   </div>
 
-## 
-  
-![Snake animation](https://github.com/Yasmin-Perestrelo/Yasmin-Perestrelo/blob/output/github-contribution-grid-snake.svg)
   
   
