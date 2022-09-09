@@ -1,7 +1,7 @@
 <h2>Olá, seja bem vindo(a)!</h2>
 <div>
   <img align="left" src="https://cdn.discordapp.com/attachments/799239086618968094/885928177283764245/244f4b39ae1979f8aa2549c555a227f4.jpg"> 
-  <p align="justify">Meu nome é Yasmin e estou atualmente cursando meu terceiro ano do ensino médio integrado a informática no IFSP. Minha carreira ainda está no início,
+  <p align="justify">Meu nome é Yasmin e estou atualmente cursando meu quarto ano do ensino médio integrado a informática no IFSP. Minha carreira ainda está no início,
   mas estou sempre em busca novos conhecimentos para, futuramente, demonstrar meu talento e minhas habilidades na área de desenvolvimento web front-end. </p>
 </div>
 
