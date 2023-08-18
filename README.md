@@ -1,7 +1,7 @@
 <h2>Olá, seja bem vindo(a)!</h2>
 <div>
   <img align="left" style="border-radius: 10px 10px;!important" src="https://cdn.discordapp.com/attachments/799239086618968094/885928177283764245/244f4b39ae1979f8aa2549c555a227f4.jpg"> 
-  <p align="justify">Olá! Meu nome é Yasmin e atualmente estou fazendo tecnólogo do curso Análise e Desenvolvimento de Sistemas. Já realizei durante meu ensino médio um curso técnico em informática no IFSP. Durante esses anos de experiência aprendi sobre diversos assuntos, tanto de redes, arquitetura, back-end, banco de dados, segurança da informação, entre outros, porém minha maior paixão é o desenvolvimento front-end e web design! Adoro proporcionar ao usuário uma experiência tranquila e aconchegante em todos os sites que realizo.
+  <p align="justify">Olá! Meu nome é Yasmin e atualmente estou fazendo tecnólogo do curso Análise e Desenvolvimento de Sistemas. Já realizei durante meu ensino médio um curso técnico em informática no IFSP. Durante esses anos de experiência aprendi sobre diversos assuntos, tanto de redes, arquitetura de computadores, desenvolvimento back-end, banco de dados, segurança da informação, entre outros, porém minha maior paixão é o desenvolvimento front-end e web design! Adoro proporcionar ao usuário uma experiência tranquila e aconchegante em todos os sites que realizo.
  </p>
 </div>
 
