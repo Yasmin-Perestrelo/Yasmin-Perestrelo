@@ -1,7 +1,7 @@
 <h2>Olá, seja bem vindo(a)!</h2>
 <div>
   <img align="left" style="border-radius: 2px 2px;!important" src="https://i.pinimg.com/736x/ac/2b/e3/ac2be32d7557cb9ae83aeed111988479.jpg"> 
-  <p align="justify">Meu nome é Yasmin e atualmente estou fazendo tecnólogo do curso Análise e Desenvolvimento de Sistemas. Já realizei durante meu ensino médio um curso técnico em informática no IFSP. Durante esses anos de experiência aprendi sobre diversos assuntos, tanto de redes, arquitetura de computadores, desenvolvimento back-end, banco de dados, segurança da informação, entre outros, porém minha maior paixão é o desenvolvimento front-end e web design! Adoro proporcionar ao usuário uma experiência tranquila e aconchegante em todos os sites que realizo.
+  <p align="justify">Olá! Meu nome é Yasmin, sou formada em Tecnologia em Análise e Desenvolvimento de Sistemas. Já realizei durante meu ensino médio um curso técnico em informática no IFSP. Ao longo desses anos, adquiri conhecimentos em diversas áreas, como redes, arquitetura de computadores, desenvolvimento back-end, banco de dados, e segurança da informação. No entanto, minha verdadeira paixão é o desenvolvimento front-end e design. Adoro criar interfaces que proporcionem uma experiência tranquila e acolhedora para os usuários em todos os sites que desenvolvo.
  </p>
 </div>
 
